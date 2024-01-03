@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Style.css",
+      "PackagePath": "staticwebassets\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Style2.css",
+      "PackagePath": "staticwebassets\\Style2.css"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\chatext.html",
+      "PackagePath": "staticwebassets\\chatext.html"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\images\\fundo.png",
+      "PackagePath": "staticwebassets\\images\\fundo.png"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\images\\fundo2.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API_project.props",
+      "PackagePath": "build\\API_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API_project.props",
+      "PackagePath": "buildMultiTargeting\\API_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API_project.props",
+      "PackagePath": "buildTransitive\\API_project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
