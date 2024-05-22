@@ -8,33 +8,44 @@
 body{
     background-color: rgb(65, 65, 65);
     background-position: center;
-  
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 .container{
     margin: 0 auto;    
     box-shadow: 4px 4px 12px rgb(85, 85, 85);
     
 }
-form{
+/* form{
     background-color: #797979;
     max-width: 600px;
     height: 150px;
     padding: 30px;
     border-radius: 15px;
     
-}
+} */
 
 .meow{
     width: 100%;
-    min-height: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;    
+    align-items: center;
+}
+
+label{
+    padding: 10px;
+    color: #fff;
+}
+
+.Output{
+    color: #fff;
 }
 
 .form-container{
     position: fixed;
     width:415px;
-    height:10px; 
     bottom:20%;
 }
 .input{

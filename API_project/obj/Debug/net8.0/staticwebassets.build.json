@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ClZOeSHrRvdYpPFGKUZ3tSjzYB2AY5ofRvB2ThG+9Zc=",
+  "Hash": "LCD+ZT6V6zn2zpDCrtootVsCHThCb+br1u4znTGy1/g=",
   "Source": "API_project",
   "BasePath": "_content/API_project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API_project\\wwwroot",
       "Source": "API_project",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\ESL1446\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_project.styles.css",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_project.styles.css",
       "SourceId": "API_project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/API_project",
       "RelativePath": "API_project.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\student\\Desktop\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_project.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\chatext.html",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\chatext.html",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "chatext.html",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\chatext.html"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\images\\fundo.png",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\images\\fundo.png",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "images/fundo.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fundo.png"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\images\\fundo2.jpg",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\images\\fundo2.jpg",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "images/fundo2.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fundo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Index.html",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\Index.html",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "Index.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Index.html"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\script.js",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "script.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Style.css",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\Style.css",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "Style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Style.css"
     },
     {
-      "Identity": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\Style2.css",
+      "Identity": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\Style2.css",
       "SourceId": "API_project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\student\\Desktop\\API_project\\API_project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\wwwroot\\",
       "BasePath": "_content/API_project",
       "RelativePath": "Style2.css",
       "AssetKind": "All",

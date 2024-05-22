@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\API_project\\API_project\\API_project.csproj": {}
+    "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\API_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\API_project\\API_project\\API_project.csproj": {
+    "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\API_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\API_project\\API_project\\API_project.csproj",
+        "projectUniqueName": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\API_project.csproj",
         "projectName": "API_project",
-        "projectPath": "C:\\Users\\student\\Desktop\\API_project\\API_project\\API_project.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\API_project\\API_project\\obj\\",
+        "projectPath": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\API_project.csproj",
+        "packagesPath": "C:\\Users\\ESL1446\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ESL1446\\OneDrive\\Documentos\\GitHub\\API_project\\API_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ESL1446\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
